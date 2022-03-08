@@ -1,6 +1,6 @@
 # Project 2 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
+Your Name, yourcontact@unl.edu
 
 (Your teammate's contact info, if appropriate)
 
